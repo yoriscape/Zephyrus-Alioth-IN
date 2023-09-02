@@ -1,8 +1,5 @@
 Device Changelogs:
-• Fixed Ldac 
-• Fixed Offline Charging
-• Battery enhancement
-• Added HBM & Auto HBM
-• Switched to Vendor Defined Colours
-• Added High Touch Sensitivity mode(Glove Mode)
-• Added Game Props
+• Improved Device Performance
+• Improved Battery idle stuffs
+• Labelled More Modem Crashes
+• August Security Patch
